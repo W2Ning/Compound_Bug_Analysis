@@ -101,7 +101,7 @@ contract StakingRewards {
     uint public rewardPerTokenStored;
 
 
-    // 保存用户每个Token获得的奖励
+    // 保存用户上一次与合约交互式时每个质押Token所获得的奖励
     mapping(address => uint) public userRewardPerTokenPaid;
     
     // 保存用户获得的奖励
