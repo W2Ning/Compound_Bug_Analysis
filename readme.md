@@ -24,7 +24,10 @@ https://blockchain.berkeley.edu/
 
 ![image](./images/2days.png)
 
-
+Odaily星球日报的分析
+```
+https://www.chainnews.com/articles/720659876649.htm
+```
 ![image](./images/7days.png)
 
 更可怕的是, 其负责人声称,仅`Comptroller`合约中的少量Token受影响, 大部分保存在`Reservori`合约中的Token是安全的
